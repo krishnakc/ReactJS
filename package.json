@@ -4,7 +4,7 @@
   "description": "React POC",
   "main": "Note.js",
   "scripts": {
-    "start": "open http://localhost:8787 & httpster -p 8787"
+    "start": ""
   },
   "repository": {
     "type": "git",
