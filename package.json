@@ -1,0 +1,28 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React POC",
+  "main": "Note.js",
+  "scripts": {
+    "start": "open http://localhost:8787 & httpster -p 8787"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnakc/ReactJS.git"
+  },
+  "keywords": [
+    "Krishna",
+    "React",
+    "FLux"
+  ],
+  "author": "Krishna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krishnakc/ReactJS/issues"
+  },
+  "homepage": "https://github.com/krishnakc/ReactJS#readme",
+  "dependencies": {
+    "httpster": "^1.0.1",
+    "react-tools": "^0.13.3"
+  }
+}
